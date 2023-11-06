@@ -18,7 +18,7 @@ public class Viva1 {
     public static void main(String[] args) {       
         int reverseNumber = 0;
        Scanner sc = new Scanner(System.in);
-       System.out.println("Enter an integer");
+       System.out.print("Enter an integer :");
        int num = sc.nextInt();
         while (num != 0) {
             
